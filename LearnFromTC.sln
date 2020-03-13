@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnFromTC", "LearnFromTC\LearnFromTC.csproj", "{BC033E69-71DF-41B1-A598-A3D7A1E88094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC033E69-71DF-41B1-A598-A3D7A1E88094}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BC033E69-71DF-41B1-A598-A3D7A1E88094}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BC033E69-71DF-41B1-A598-A3D7A1E88094}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BC033E69-71DF-41B1-A598-A3D7A1E88094}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
